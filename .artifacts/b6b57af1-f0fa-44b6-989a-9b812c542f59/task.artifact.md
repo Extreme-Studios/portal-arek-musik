@@ -1,0 +1,5 @@
+- [x] Create `CalculatorViewModel.kt` for calculation logic
+- [x] Create `CalculatorScreen.kt` for the Compose UI
+- [x] Create `CalculatorActivity.kt` to host the calculator
+- [x] Register `CalculatorActivity` in `AndroidManifest.xml`
+- [x] Verify the application by building and potentially running a test
